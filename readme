@@ -1,0 +1,7 @@
+Esse exercício explora conceitos de objetos e se propôs a desenvolver uma função de filtro.
+
+==> A ideia inicial é filtrar os estudantes passando a casa do aluno. <==
+
+# Primeiramente foi feita uma função construtora (estudante) que permite instanciar vários objetos, nesse caso estudantes;
+# Em seguida foi declarado um array 'alunos' para guardar todos as instâncias de estudante.
+# Por fim, uma função (listar) que recebe parâmetro casa e percorre 'alunos' e filtra o aluno que correspode ao mesmo parametro fornecido e adiciona uma linha na tabela. Essa função também monta dinamicamente uma tabela e a preenche de acordo com os dados do array 'alunos'.
